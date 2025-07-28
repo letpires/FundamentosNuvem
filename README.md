@@ -37,7 +37,7 @@ Este curso apresenta conceitos fundamentais de computação em nuvem para cienti
 
 ### Aula 4: Python e Nuvem
 
-- Notebook: [`_Aula_4_Python_e_Nuvem.ipynb`](_Aula_4_Python_e_Nuvem.ipynb)
+- Notebook: [`_Aula_4_Python_e_Nuvem.ipynb`](https://github.com/letpires/FundamentosNuvem/blob/main/%F0%9F%93%93_Aula_4_Python_e_Nuvem.ipynb)
 
 
 ### Aula 5: IAM e Segurança
