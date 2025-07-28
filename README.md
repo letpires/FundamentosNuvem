@@ -9,8 +9,6 @@ Repositório de apoio ao curso **Fundamentos de Nuvem** desenvolvido para a Alur
 Este curso apresenta conceitos fundamentais de computação em nuvem para cientistas de dados, utilizando exemplos práticos com dados reais do e-commerce brasileiro. Exploramos um pouco de todas as principais clouds do mercado, mas com foco especial no Google Cloud Platform (GCP).
 
 
----
-
 ## Conteúdo
 
 ### Aula 1: Introdução e Dados
@@ -23,14 +21,11 @@ Este curso apresenta conceitos fundamentais de computação em nuvem para cienti
 - Modelos de serviços em nuvem:  [PaaS vs IaaS vs SaaS](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=en)  
   
 
----
-
 ### Aula 2: Primeiros Passos na Nuvem
 
 - Criando conta gratuita no Google Cloud:  
   [Google Cloud Free](https://cloud.google.com/free?hl=pt-br)
 
----
 
 ### Aula 3: Armazenamento de Dados
 
@@ -39,20 +34,17 @@ Este curso apresenta conceitos fundamentais de computação em nuvem para cienti
 - BigQuery:  
   [Documentação](https://cloud.google.com/bigquery/docs?hl=pt-br)
 
----
 
 ### Aula 4: Python e Nuvem
 
 - Notebook: [`_Aula_4_Python_e_Nuvem.ipynb`](_Aula_4_Python_e_Nuvem.ipynb)
 
----
 
 ### Aula 5: IAM e Segurança
 
 - IAM no GCP:  
   [Visão geral de princípios](https://cloud.google.com/iam/docs/principals-overview?hl=pt-br)
 
----
 
 
 ## Estrutura do Repositório
@@ -72,7 +64,6 @@ Este curso apresenta conceitos fundamentais de computação em nuvem para cienti
     └── product_category_name_translation.csv
 ```
 
----
 
 ## Como Usar
 
