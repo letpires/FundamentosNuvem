@@ -18,7 +18,9 @@ Este curso apresenta conceitos fundamentais de computação em nuvem para cienti
 - **Feriados nacionais:** [JSON de feriados](https://date.nager.at/api/v3/PublicHolidays/2025/BR)
 - [O que é computação em nuvem?](https://cloud.google.com/learn/what-is-cloud-computing?hl=pt-br)
 
-- Modelos de serviços em nuvem:  [PaaS vs IaaS vs SaaS](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=en)  
+- Modelos de serviços em nuvem:  [PaaS vs IaaS vs SaaS](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=en)
+- **Google Colab** pode ser considerado um modelo SaaS, mas também tem algumas referências que trazem ele como um [misto/hibrido de SaaS e PaaS](https://prof-frenzel.medium.com/kb-cloud-part-i-google-colab-for-data-projects-78fe3d079027).
+  - É considerado principalmente um Software as a Service (SaaS), pois oferece um ambiente de desenvolvimento de notebooks Jupyter pronto para uso diretamente no navegador. Você usa o software sem se preocupar com a infraestrutura. No entanto, ele também possui características de Platform as a Service (PaaS), pois permite que desenvolvedores criem e executem seu próprio código (modelos de Machine Learning, análises de dados, etc.) em uma plataforma gerenciada pelo Google.
   
 
 ### Aula 2: Primeiros Passos na Nuvem
