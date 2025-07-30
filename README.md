@@ -46,6 +46,8 @@ Este curso apresenta conceitos fundamentais de computação em nuvem para cienti
 
 - IAM no GCP:  
   [Visão geral de princípios](https://cloud.google.com/iam/docs/principals-overview?hl=pt-br)
+- [Contas de serviço](https://cloud.google.com/compute/docs/access/service-accounts?hl=pt-br)
+- [Permissões e papéis do IAM](https://cloud.google.com/compute/docs/access/service-accounts?hl=pt-br)
 
 
 
